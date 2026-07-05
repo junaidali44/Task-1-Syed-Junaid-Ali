@@ -116,4 +116,4 @@ MIT — Free to use, modify, and distribute.
 
 © 2026 EZLearn — Project 1, Decodelabbs Internship
 
-[Live Demo](EZLearn.vercel.app) | [GitHub](github.com/junaidali44/EZLearn)
+[Live Demo](https://ezlearn-neon.vercel.app) | [GitHub](github.com/junaidali44/EZLearn)
